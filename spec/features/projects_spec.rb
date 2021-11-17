@@ -1,4 +1,5 @@
 require 'rails_helper'
+require 'factory_bot_rails'
 
 RSpec.feature "Projects", type: :feature do
   context "Create new project" do
